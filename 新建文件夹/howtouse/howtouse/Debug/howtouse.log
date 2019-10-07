@@ -1,0 +1,208 @@
+﻿生成启动时间为 2018/12/28 18:09:01。
+     1>项目“F:\code\howtouse\howtouse\howtouse.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\howtouse.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt howtouse.cpp
+         howtouse.cpp
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1712): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1712): warning C4183: “Mat”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1715): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1715): warning C4183: “Mat”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1716): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1716): warning C4183: “Mat”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1718): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1718): warning C4183: “Mat”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1719): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1719): warning C4183: “Mat”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1722): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1722): warning C4183: “Mat”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1723): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1723): warning C4183: “Mat”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1726): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1726): error C2143: 语法错误 : 缺少“,”(在“&”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1726): warning C4183: “Mat”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1728): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1728): warning C4183: “Mat”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1729): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1729): warning C4183: “Mat”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1730): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1730): warning C4183: “Mat”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1733): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1733): error C2143: 语法错误 : 缺少“,”(在“&”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1733): error C2535: “int cv::<unnamed-tag>::Mat(const int)”: 已经定义或声明成员函数
+                 e:\opencv\build\include\opencv2\core\core.hpp(1726) : 参见“cv::<unnamed-tag>::Mat”的声明
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1733): warning C4183: “Mat”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1734): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1734): error C2143: 语法错误 : 缺少“,”(在“&”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1734): error C2535: “int cv::<unnamed-tag>::Mat(const int)”: 已经定义或声明成员函数
+                 e:\opencv\build\include\opencv2\core\core.hpp(1726) : 参见“cv::<unnamed-tag>::Mat”的声明
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1734): warning C4183: “Mat”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1735): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1735): error C2143: 语法错误 : 缺少“,”(在“&”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1735): error C2535: “int cv::<unnamed-tag>::Mat(const int)”: 已经定义或声明成员函数
+                 e:\opencv\build\include\opencv2\core\core.hpp(1726) : 参见“cv::<unnamed-tag>::Mat”的声明
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1735): warning C4183: “Mat”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1737): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1737): warning C4183: “Mat”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1739): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1739): warning C4183: “Mat”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1741): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1741): warning C4183: “Mat”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1743): error C2071: “cv::<unnamed-tag>::Mat”: 非法的存储类
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1743): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1745): error C2071: “cv::<unnamed-tag>::Mat”: 非法的存储类
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1745): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1747): error C2071: “cv::<unnamed-tag>::Mat”: 非法的存储类
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1747): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1749): error C2071: “cv::<unnamed-tag>::Mat”: 非法的存储类
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1749): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1751): error C2071: “cv::<unnamed-tag>::Mat”: 非法的存储类
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1751): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1753): error C2071: “cv::<unnamed-tag>::Mat”: 非法的存储类
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1753): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1756): error C2071: “cv::<unnamed-tag>::Mat”: 非法的存储类
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1756): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1759): error C2523: “cv::<unnamed-tag>::~Mat”: 析构函数 标记不匹配
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1761): error C2143: 语法错误 : 缺少“;”(在“&”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1761): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1761): error C2143: 语法错误 : 缺少“,”(在“&”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1762): error C2143: 语法错误 : 缺少“;”(在“&”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1762): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1765): error C2146: 语法错误: 缺少“;”(在标识符“row”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1765): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1765): warning C4183: “row”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1767): error C2146: 语法错误: 缺少“;”(在标识符“col”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1767): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1767): warning C4183: “col”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1769): error C2146: 语法错误: 缺少“;”(在标识符“rowRange”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1769): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1769): warning C4183: “rowRange”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1770): error C2146: 语法错误: 缺少“;”(在标识符“rowRange”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1770): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1770): warning C4183: “rowRange”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1772): error C2146: 语法错误: 缺少“;”(在标识符“colRange”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1772): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1772): warning C4183: “colRange”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1773): error C2146: 语法错误: 缺少“;”(在标识符“colRange”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1773): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1773): warning C4183: “colRange”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1778): error C2146: 语法错误: 缺少“;”(在标识符“diag”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1778): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1778): warning C4183: “diag”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1780): error C2146: 语法错误: 缺少“;”(在标识符“diag”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1780): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1780): error C2365: “cv::<unnamed-tag>::Mat”: 重定义；以前的定义是“成员函数”
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1780): error C2143: 语法错误 : 缺少“,”(在“&”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1780): warning C4183: “diag”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1783): error C2146: 语法错误: 缺少“;”(在标识符“clone”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1783): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1783): warning C4183: “clone”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1792): error C2061: 语法错误: 标识符“Mat”
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1795): error C2143: 语法错误 : 缺少“;”(在“&”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1795): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1797): error C2143: 语法错误 : 缺少“;”(在“&”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1797): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1797): warning C4183: “setTo”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1800): error C2146: 语法错误: 缺少“;”(在标识符“reshape”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1800): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1800): warning C4183: “reshape”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1801): error C2146: 语法错误: 缺少“;”(在标识符“reshape”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1801): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1801): warning C4183: “reshape”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1811): error C2146: 语法错误: 缺少“;”(在标识符“cross”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1811): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1811): warning C4183: “cross”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1840): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1840): error C2143: 语法错误 : 缺少“,”(在“&”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1853): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1853): error C2143: 语法错误 : 缺少“,”(在“&”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1860): error C2143: 语法错误 : 缺少“;”(在“&”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1860): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1860): warning C4183: “adjustROI”:  缺少返回类型；假定为返回“int”的成员函数
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1863): error C2143: 语法错误 : 缺少“;”(在“(”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1863): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1864): error C2143: 语法错误 : 缺少“;”(在“(”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1864): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1865): error C2143: 语法错误 : 缺少“;”(在“(”的前面)
+     1>e:\opencv\build\include\opencv2\core\core.hpp(1865): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\core.hpp(2031): warning C4094: 无标记的“class”未声明符号
+     1>e:\opencv\build\include\opencv2\core\core.hpp(2485): error C2079: “cv::PCA::eigenvectors”使用未定义的 class“cv::Mat”
+     1>e:\opencv\build\include\opencv2\core\core.hpp(2486): error C2079: “cv::PCA::eigenvalues”使用未定义的 class“cv::Mat”
+     1>e:\opencv\build\include\opencv2\core\core.hpp(2487): error C2079: “cv::PCA::mean”使用未定义的 class“cv::Mat”
+     1>e:\opencv\build\include\opencv2\core\core.hpp(2549): error C2079: “cv::SVD::u”使用未定义的 class“cv::Mat”
+     1>e:\opencv\build\include\opencv2\core\core.hpp(2549): error C2079: “cv::SVD::w”使用未定义的 class“cv::Mat”
+     1>e:\opencv\build\include\opencv2\core\core.hpp(2549): error C2079: “cv::SVD::vt”使用未定义的 class“cv::Mat”
+     1>e:\opencv\build\include\opencv2\core\core.hpp(2822): error C2504: “cv::Mat”: 未定义基类
+                 e:\opencv\build\include\opencv2\core\core.hpp(2958): 参见对正在编译的类 模板 实例化“cv::Mat_<_Tp>”的引用
+     1>e:\opencv\build\include\opencv2\core\core.hpp(3999): error C2079: “cv::KDTree::points”使用未定义的 class“cv::Mat”
+     1>e:\opencv\build\include\opencv2\core\operations.hpp(3128): error C2514: “cv::Mat”: 类没有构造函数
+                 e:\opencv\build\include\opencv2\core\core.hpp(86) : 参见“cv::Mat”的声明
+     1>e:\opencv\build\include\opencv2\core\operations.hpp(3916): error C2079: “cv::Formatted::mtx”使用未定义的 class“cv::Mat”
+     1>e:\opencv\build\include\opencv2\core\operations.hpp(3961): error C2664: “void cv::Formatter::write(std::ostream &,const void *,int,int,const int *,int) const”: 无法将参数 2 从“const int”转换为“const cv::Mat &”
+                 原因如下:  无法从“const int”转换为“const cv::Mat”
+                 源或目标有不完整类型
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(58): error C2027: 使用了未定义类型“cv::Mat”
+                 e:\opencv\build\include\opencv2\core\core.hpp(86) : 参见“cv::Mat”的声明
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(60): error C2065: “flags”: 未声明的标识符
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(60): error C2065: “MAGIC_VAL”: 未声明的标识符
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(61): error C2065: “dims”: 未声明的标识符
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(61): error C2065: “rows”: 未声明的标识符
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(61): error C2065: “cols”: 未声明的标识符
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(62): error C2065: “data”: 未声明的标识符
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(62): error C2065: “datastart”: 未声明的标识符
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(62): error C2065: “dataend”: 未声明的标识符
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(62): error C2065: “datalimit”: 未声明的标识符
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(63): error C2065: “refcount”: 未声明的标识符
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(64): error C2065: “allocator”: 未声明的标识符
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(67): error C2027: 使用了未定义类型“cv::Mat”
+                 e:\opencv\build\include\opencv2\core\core.hpp(86) : 参见“cv::Mat”的声明
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(67): error C2059: 语法错误:“)”
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(67): error C2065: “rows”: 未声明的标识符
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(68): error C2448: “size”: 函数样式初始值设定项类似函数定义
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(72): error C2027: 使用了未定义类型“cv::Mat”
+                 e:\opencv\build\include\opencv2\core\core.hpp(86) : 参见“cv::Mat”的声明
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(72): error C2062: 意外的类型“int”
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(72): error C2065: “rows”: 未声明的标识符
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(73): error C2448: “size”: 函数样式初始值设定项类似函数定义
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(78): error C2027: 使用了未定义类型“cv::Mat”
+                 e:\opencv\build\include\opencv2\core\core.hpp(86) : 参见“cv::Mat”的声明
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(78): error C2062: 意外的类型“int”
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(78): error C2065: “rows”: 未声明的标识符
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(79): error C2448: “size”: 函数样式初始值设定项类似函数定义
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(85): error C2027: 使用了未定义类型“cv::Mat”
+                 e:\opencv\build\include\opencv2\core\core.hpp(86) : 参见“cv::Mat”的声明
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(85): error C2146: 语法错误: 缺少“)”(在标识符“_sz”的前面)
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(85): error C2146: 语法错误: 缺少“;”(在标识符“_sz”的前面)
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(85): error C2079: “Size”使用未定义的 class“cv::Mat”
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(85): error C2433: “Size”: 不允许在数据声明中使用“inline”
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(85): error C2377: “cv::Size”: 重定义；typedef 不能由任何其他符号重载
+                 e:\opencv\build\include\opencv2\core\core.hpp(886) : 参见“cv::Size”的声明
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(85): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(85): error C2062: 意外的类型“int”
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(85): error C2059: 语法错误:“)”
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(85): error C2065: “rows”: 未声明的标识符
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(86): error C2448: “size”: 函数样式初始值设定项类似函数定义
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(91): error C2027: 使用了未定义类型“cv::Mat”
+                 e:\opencv\build\include\opencv2\core\core.hpp(86) : 参见“cv::Mat”的声明
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(91): error C2146: 语法错误: 缺少“)”(在标识符“_sz”的前面)
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(91): error C2146: 语法错误: 缺少“;”(在标识符“_sz”的前面)
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(91): error C2079: “Size”使用未定义的 class“cv::Mat”
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(91): error C2433: “Size”: 不允许在数据声明中使用“inline”
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(91): error C2086: “int cv::Size”: 重定义
+                 e:\opencv\build\include\opencv2\core\mat.hpp(85) : 参见“cv::Size”的声明
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(91): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(91): error C2086: “int cv::_sz”: 重定义
+                 e:\opencv\build\include\opencv2\core\mat.hpp(85) : 参见“cv::_sz”的声明
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(91): error C2062: 意外的类型“int”
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(91): error C2059: 语法错误:“)”
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(91): error C2065: “rows”: 未声明的标识符
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(92): error C2448: “size”: 函数样式初始值设定项类似函数定义
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(98): error C2027: 使用了未定义类型“cv::Mat”
+                 e:\opencv\build\include\opencv2\core\core.hpp(86) : 参见“cv::Mat”的声明
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(98): error C2062: 意外的类型“int”
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(98): error C2065: “rows”: 未声明的标识符
+     1>e:\opencv\build\include\opencv2\core\mat.hpp(98): fatal error C1003: 错误计数超过 100；正在停止编译
+     1>已完成生成项目“F:\code\howtouse\howtouse\howtouse.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.82
